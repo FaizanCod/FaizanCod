@@ -7,7 +7,7 @@
 
 ###
 
-<h4 align="left" style="font-weight: 400">- 🔭 I’m working as a Software Developer.<br>- 📚 I'm currently learning Scala and Spark.<br>- 💻 Interested in Web/Mobile Development.
+<h4 align="left" style="font-weight: 400">- 🔭 I’m working as a Software Developer.<br>- 📚 I'm currently learning about Cloud and Big Data Technologies.<br>- 💻 Interested in Web/Mobile Development.
 </h4>
 
 ###
